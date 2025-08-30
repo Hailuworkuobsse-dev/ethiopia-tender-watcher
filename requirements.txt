@@ -1,0 +1,29 @@
+software
+web
+website
+mobile app
+android
+ios
+ERP
+CRM
+API
+DevOps
+cybersecurity
+security
+WAF
+PAM
+observability
+ITSM
+integration
+database
+AI
+ERP
+School Managment System
+machine learning
+data science
+cloud
+hosting
+portal
+e-government
+digital
+ICT
